@@ -39,5 +39,5 @@ jobs:
       # for the Wrath of the Lich King Classic version of the game and doesn't upload to WoWInterface
       - name: Release for WOTLKC
         uses: BigWigsMods/packager@v2
-        with:
-          args: -g wrath -w 0
+#        with:
+ #         args: -g wrath -w 0
