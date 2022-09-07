@@ -1,9 +1,12 @@
 ## Interface: 30400
+## X-Min-Interface-Classic: 11403
+## X-Min-Interface-BCC: 20504
+## X-Min-Interface-Wrath: 30400
 ## Title: <|cFFC41F3BT|r|cFFFF7D0Ah|r|cFFABD473e|r|cFF69CCF0A|r|cFF00FF96d|r|cFFF58CBAd|r|cFFFFF569o|r|cFF0070DEn|r>2 - girls only edition!
 ## Notes: This is |cFF9482C9<|r|cFFC41F3BT|r|cFFFF7D0Ah|r|cFFABD473e|r|cFF69CCF0A|r|cFF00FF96d|r|cFFF58CBAd|r|cFFFFF569o|r|cFF0070DEn|r|cFF9482C9>|r. Edited for girls only on Mankrik <3
-## Author: pen_lhw, mortja, Czami
+## Author: pen_lhw, mortja, Czami, Hangover
 ## URL: http://www.curse.com/addons/wow/theaddon
-## Version: 1.1.19
+## Version: 1.1.19a
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 TheAddon2go.xml
