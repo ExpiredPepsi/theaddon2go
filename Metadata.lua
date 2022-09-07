@@ -166,6 +166,7 @@ Emotedata = {
   ["star"] = { Texture = "star.tga", Width = 65, Height = 20 },
   ["telephone"] = { Texture = "telephone.tga", Width = 65, Height = 20 },
   ["bude"] = { Texture = "budemode.tga", Width = 30, Height = 30 },
+  ["budemode"] = { Texture = "budemode.tga", Width = 30, Height = 30 },
   ["arthasegg"] = { Texture = "arthasegg.tga", Width = 30, Height = 30 },
         ["11tea"] = { Texture = "emot-11tea.tga", Width = 32, Height = 25 },
         ["30bux"] = { Texture = "emot-2001.tga", Width = 12, Height = 27 },
