@@ -170,6 +170,7 @@ Emotedata = {
   ["arthasegg"] = { Texture = "arthasegg.tga", Width = 30, Height = 30 },
   ["ACKCHYUALLY"] = { Texture = "ACKCHYUALLY.tga", Width = 40, Height = 30 },
   ["actually"] = { Texture = "ACKCHYUALLY.tga", Width = 40, Height = 30 },
+  ["ackchuyually"] = { Texture = "ACKCHYUALLY.tga", Width = 30, Height = 30 },
         ["11tea"] = { Texture = "emot-11tea.tga", Width = 32, Height = 25 },
         ["30bux"] = { Texture = "emot-2001.tga", Width = 12, Height = 27 },
         ["3"] = { Texture = "emot-3.tga", Width = 15, Height = 18 },
