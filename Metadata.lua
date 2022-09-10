@@ -177,7 +177,6 @@ Emotedata = {
         ["a2m"] = { Texture = "emot-a2m.tga", Width = 40, Height = 19 },
         ["aaa"] = { Texture = "emot-aaa.tga", Width = 15, Height = 15 },
         ["aaaaa"] = { Texture = "emot-aaaaa.tga", Width = 15, Height = 15 },
-        ["actually"] = { Texture = "palactually.tga", Width = 90, Height = 25 },
         ["agesilaus"] = { Texture = "agesilaus.001.tga", Width = 26, Height = 25 },
         ["airquote"] = { Texture = "emot-airquote.tga", Width = 35, Height = 17 },
         ["allears"] = { Texture = "emot-allears.tga", Width = 23, Height = 18 },
