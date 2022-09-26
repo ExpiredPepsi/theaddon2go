@@ -177,6 +177,7 @@ Emotedata = {
   ["myshards"] = { Texture = "myshards.tga", Width = 30, Height = 30 },
   ["algapog"] = { Texture = "algapog.tga", Width = 30, Height = 30 },
   ["bajanunu"] = { Texture = "bajanunu.tga", Width = 25, Height = 30 },
+  ["bcg2014"] = { Texture = "bcg2014.tga", Width = 34, Height = 30 },
         ["11tea"] = { Texture = "emot-11tea.tga", Width = 32, Height = 25 },
         ["30bux"] = { Texture = "emot-2001.tga", Width = 12, Height = 27 },
         ["3"] = { Texture = "emot-3.tga", Width = 15, Height = 18 },
