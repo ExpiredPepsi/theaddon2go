@@ -39,7 +39,7 @@ jobs:
       - name: Package and Release
         uses: BigWigsMods/packager@v2.0.8
         with:
-          args: -S -w 0
+          args: -w 0
 
       # this is specifically to release for the Wrath of the Lich King Classic version of the game and doesn't upload to WoWInterface
       #- name: Release for WOTLKC
