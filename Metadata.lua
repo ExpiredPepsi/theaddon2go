@@ -1093,5 +1093,7 @@ Emotedata = {
 ["pogalon"] = { Texture = "algapog.tga", Width = 30, Height = 30 },
 ["blobheart"] = { Texture = "blobheart.tga", Width = 20, Height = 20 },
 ["balldo"] = { Texture = "balldo.tga", Width = 40, Height = 20 },
-["pray"] = { Texture = "pray.tga", Width = 20, Height = 20 }      
+["pray"] = { Texture = "pray.tga", Width = 20, Height = 20 },
+["prepot"] = { Texture = "myprepot.tga", Width = 80, Height = 35 },
+["myprepot"] = { Texture = "myprepot.tga", Width = 80, Height = 35 }       
 }
