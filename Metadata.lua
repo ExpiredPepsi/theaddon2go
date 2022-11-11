@@ -1096,5 +1096,6 @@ Emotedata = {
 ["pray"] = { Texture = "pray.tga", Width = 20, Height = 20 },
 ["prepot"] = { Texture = "myprepot.tga", Width = 80, Height = 35 },
 ["myprepot"] = { Texture = "myprepot.tga", Width = 80, Height = 35 },
-["mypp"] = { Texture = "myprepot.tga", Width = 80, Height = 35 }       
+["mypp"] = { Texture = "myprepot.tga", Width = 80, Height = 35 },
+["ahegao"] = { Texture = "ahegao.tga", Width = 30, Height = 30 }         
 }
