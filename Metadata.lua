@@ -1015,7 +1015,7 @@ Emotedata = {
 ["shaka"] = { Texture = "shaka.tga", Width = 30, Height = 30 },
 ["peppernotify"] = { Texture = "peppernotify.tga", Width = 30, Height = 30 },
 ["thankspasta"] = { Texture = "thankspasta.tga", Width = 30, Height = 30 },
-["dn"] = { Texture = "dn.tga", Width = 43, Height = 25 },
+["dn"] = { Texture = "dn.tga", Width = 45, Height = 25 },
 ["handshake"] = { Texture = "handshake.tga", Width = 30, Height = 30 },
 ["eyes"] = { Texture = "eyes.tga", Width = 30, Height = 30 },
 ["lmao"] = { Texture = "lmao.tga", Width = 48, Height = 16 },
@@ -1097,5 +1097,8 @@ Emotedata = {
 ["prepot"] = { Texture = "myprepot.tga", Width = 80, Height = 35 },
 ["myprepot"] = { Texture = "myprepot.tga", Width = 80, Height = 35 },
 ["mypp"] = { Texture = "myprepot.tga", Width = 80, Height = 35 },
-["ahegao"] = { Texture = "ahegao.tga", Width = 30, Height = 30 }         
+["ahegao"] = { Texture = "ahegao.tga", Width = 30, Height = 30 },
+["db"] = { Texture = "deezbutts.tga", Width = 45, Height = 25 },
+["frustratin"] = { Texture = "bigmad.tga", Width = 20, Height = 20 },
+["sadghost"] = { Texture = "sadghost.tga", Width = 30, Height = 25 }          
 }
