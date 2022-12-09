@@ -1100,5 +1100,6 @@ Emotedata = {
 ["ahegao"] = { Texture = "ahegao.tga", Width = 30, Height = 30 },
 ["db"] = { Texture = "deezbutts.tga", Width = 45, Height = 25 },
 ["frustratin"] = { Texture = "bigmad.tga", Width = 20, Height = 20 },
-["sadghost"] = { Texture = "sadghost.tga", Width = 30, Height = 25 }          
+["sadghost"] = { Texture = "sadghost.tga", Width = 30, Height = 25 },
+["razz"] = { Texture = "razz.tga", Width = 30, Height = 30 }                    
 }
