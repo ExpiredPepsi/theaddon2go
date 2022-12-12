@@ -1101,5 +1101,11 @@ Emotedata = {
 ["db"] = { Texture = "deezbutts.tga", Width = 45, Height = 25 },
 ["frustratin"] = { Texture = "bigmad.tga", Width = 20, Height = 20 },
 ["sadghost"] = { Texture = "sadghost.tga", Width = 30, Height = 25 },
-["razz"] = { Texture = "razz.tga", Width = 30, Height = 30 }                    
+["razz"] = { Texture = "razz.tga", Width = 30, Height = 30 },
+["paratext"] = { Texture = "paratext.tga", Width = 40, Height = 40 },
+["algapogu"] = { Texture = "algapogu.tga", Width = 30, Height = 30 },
+["algahuh"] = { Texture = "algahuh.tga", Width = 30, Height = 40 },
+["point"] = { Texture = "point.tga", Width = 30, Height = 30 },
+["pointr"] = { Texture = "pointr.tga", Width = 35, Height = 20 },
+["pointu"] = { Texture = "pointu.tga", Width = 20, Height = 30 }                    
 }
