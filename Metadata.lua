@@ -1107,5 +1107,6 @@ Emotedata = {
 ["algahuh"] = { Texture = "algahuh.tga", Width = 30, Height = 40 },
 ["point"] = { Texture = "point.tga", Width = 30, Height = 30 },
 ["pointr"] = { Texture = "pointr.tga", Width = 35, Height = 20 },
-["pointu"] = { Texture = "pointu.tga", Width = 20, Height = 30 }                    
+["pointu"] = { Texture = "pointu.tga", Width = 20, Height = 30 },
+["doot"] = { Texture = "doot.tga", Width = 30, Height = 30 }                    
 }
