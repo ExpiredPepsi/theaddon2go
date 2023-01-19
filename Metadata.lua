@@ -342,7 +342,6 @@ Emotedata = {
         ["waycool"] = { Texture = "emot-waycool.tga", Width = 61, Height = 20 },
         ["whoptc"] = { Texture = "emot-whoptc.tga", Width = 58, Height = 25 },
         ["woof"] = { Texture = "emot-woof.tga", Width = 52, Height = 25 },
-        ["wow"] = { Texture = "wow.001.tga", Width = 63, Height = 25 },
         ["wrongful"] = { Texture = "emot-wrongful.tga", Width = 85, Height = 25 },
         ["wtc"] = { Texture = "emot-wtc.tga", Width = 58, Height = 25 },
         ["wtf"] = { Texture = "emot-wtf.tga", Width = 35, Height = 15 },
@@ -1113,5 +1112,8 @@ Emotedata = {
 ["yoggersl"] = { Texture = "yoggersL.tga", Width = 35, Height = 35 },
 ["bissy"] = { Texture = "bissy.tga", Width = 35, Height = 35 },
 ["nyoron"] = { Texture = "nyoron.tga", Width = 35, Height = 35 },
-["hodear"] = { Texture = "hodear.tga", Width = 33, Height = 35 }                                
+["hodear"] = { Texture = "hodear.tga", Width = 33, Height = 35 },
+["wow"] = { Texture = "wow.tga", Width = 35, Height = 35 },
+["duckpray"] = { Texture = "duckpray.tga", Width = 35, Height = 30 },
+["d4"] = { Texture = "d4.tga", Width = 35, Height = 35 }                                 
 }
