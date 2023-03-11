@@ -1115,5 +1115,6 @@ Emotedata = {
 ["hodear"] = { Texture = "hodear.tga", Width = 33, Height = 35 },
 ["wow"] = { Texture = "wow.tga", Width = 35, Height = 35 },
 ["duckpray"] = { Texture = "duckpray.tga", Width = 35, Height = 30 },
-["d4"] = { Texture = "d4.tga", Width = 35, Height = 35 }                                 
+["d4"] = { Texture = "d4.tga", Width = 35, Height = 35 },
+["pogofgreed"] = { Texture = "pogofgreed.tga", Width = 35, Height = 35 }                                 
 }
