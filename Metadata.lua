@@ -1117,5 +1117,8 @@ Emotedata = {
 ["duckpray"] = { Texture = "duckpray.tga", Width = 35, Height = 30 },
 ["d4"] = { Texture = "d4.tga", Width = 35, Height = 35 },
 ["pogofgreed"] = { Texture = "pogofgreed.tga", Width = 35, Height = 35 },
-["bighow"] = { Texture = "bighow.tga", Width = 32, Height = 35 }                                         
+["bighow"] = { Texture = "bighow.tga", Width = 32, Height = 35 },
+["blobfish"] = { Texture = "blobfish.tga", Width = 42, Height = 35 },
+["fishfeast"] = { Texture = "fishfeast.tga", Width = 65, Height = 50 },
+["ff"] = { Texture = "fishfeast.tga", Width = 65, Height = 50 }                                             
 }
