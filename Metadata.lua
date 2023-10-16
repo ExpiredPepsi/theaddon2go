@@ -1120,5 +1120,6 @@ Emotedata = {
 ["bighow"] = { Texture = "bighow.tga", Width = 32, Height = 35 },
 ["blobfish"] = { Texture = "blobfish.tga", Width = 42, Height = 35 },
 ["fishfeast"] = { Texture = "fishfeast.tga", Width = 65, Height = 50 },
-["ff"] = { Texture = "fishfeast.tga", Width = 65, Height = 50 }                                             
+["ff"] = { Texture = "fishfeast.tga", Width = 65, Height = 50 },
+["cumby"] = { Texture = "cumby.tga", Width = 35, Height = 35 }                                               
 }
