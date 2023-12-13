@@ -1126,5 +1126,8 @@ Emotedata = {
 ["draculaflow"] = { Texture = "draculaflow.tga", Width = 35, Height = 35 },
 ["dracula"] = { Texture = "draculaflow.tga", Width = 35, Height = 35 },
 ["garf"] = { Texture = "garf.tga", Width = 35, Height = 35 }, 
-["o7"] = { Texture = "o7.tga", Width = 35, Height = 35 }                                                  
+["o7"] = { Texture = "o7.tga", Width = 35, Height = 35 },
+["shish"] = { Texture = "shishkahog.tga", Width = 35, Height = 35 },
+["shishkahog"] = { Texture = "shishkahog.tga", Width = 35, Height = 35 },
+["shishhog"] = { Texture = "shishkahog.tga", Width = 35, Height = 35 }                                                         
 }
