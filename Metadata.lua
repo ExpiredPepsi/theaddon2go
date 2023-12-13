@@ -1129,5 +1129,6 @@ Emotedata = {
 ["o7"] = { Texture = "o7.tga", Width = 35, Height = 35 },
 ["shish"] = { Texture = "shishkahog.tga", Width = 35, Height = 35 },
 ["shishkahog"] = { Texture = "shishkahog.tga", Width = 35, Height = 35 },
-["shishhog"] = { Texture = "shishkahog.tga", Width = 35, Height = 35 }                                                         
+["shishhog"] = { Texture = "shishkahog.tga", Width = 35, Height = 35 },
+["discord"] = { Texture = "discord.tga", Width = 35, Height = 35 }                                                        
 }
