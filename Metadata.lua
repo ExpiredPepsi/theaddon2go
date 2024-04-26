@@ -1173,5 +1173,6 @@ Emotedata = {
 ["msngift"] = { Texture = "msngift.tga", Width = 20, Height = 20 },
 ["msnbrb"] = { Texture = "msnbrb.tga", Width = 20, Height = 20 },
 ["msntongue"] = { Texture = "msntongue.tga", Width = 20, Height = 20 },
-["msnangry"] = { Texture = "msnangry.tga", Width = 20, Height = 20 }                                                         
+["msnangry"] = { Texture = "msnangry.tga", Width = 20, Height = 20 },
+["cum"] = { Texture = "cum.tga", Width = 35, Height = 20 }                                                                    
 }
