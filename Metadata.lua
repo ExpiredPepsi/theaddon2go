@@ -1174,5 +1174,16 @@ Emotedata = {
 ["msnbrb"] = { Texture = "msnbrb.tga", Width = 20, Height = 20 },
 ["msntongue"] = { Texture = "msntongue.tga", Width = 20, Height = 20 },
 ["msnangry"] = { Texture = "msnangry.tga", Width = 20, Height = 20 },
-["cum"] = { Texture = "cum.tga", Width = 35, Height = 20 }                                                                    
+["cum"] = { Texture = "cum.tga", Width = 35, Height = 20 },
+["msndog"] = { Texture = "msndog.tga", Width = 25, Height = 20 },                                                                    
+["msn"] = { Texture = "msn.tga", Width = 25, Height = 20 },
+["msngirl"] = { Texture = "msngirl.tga", Width = 15, Height = 20 },
+["msnguy"] = { Texture = "msnguy.tga", Width = 15, Height = 20 },
+["thdown"] = { Texture = "thdown.tga", Width = 17, Height = 20 },
+["thup"] = { Texture = "thup.tga", Width = 17, Height = 20 },
+["msnstar"] = { Texture = "msnstar.tga", Width = 20, Height = 20 },
+["wilted"] = { Texture = "msnwilted.tga", Width = 20, Height = 20 },
+["dig"] = { Texture = "dig.tga", Width = 27, Height = 30 },
+["arch"] = { Texture = "arch.tga", Width = 30, Height = 30 },
+["msnwilted"] = { Texture = "msnwilted.tga", Width = 20, Height = 20 }                                                                    
 }
