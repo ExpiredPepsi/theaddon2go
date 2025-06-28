@@ -1185,5 +1185,10 @@ Emotedata = {
 ["wilted"] = { Texture = "msnwilted.tga", Width = 20, Height = 20 },
 ["dig"] = { Texture = "dig.tga", Width = 27, Height = 30 },
 ["arch"] = { Texture = "arch.tga", Width = 30, Height = 30 },
+["mrnut"] = { Texture = "mrnut.tga", Width = 30, Height = 30 },
+["hanksmoke"] = { Texture = "hanksmoke.tga", Width = 30, Height = 35 },                                                                     
+["puke100"] = { Texture = "puke100.tga", Width = 30, Height = 30 }, 
+["sadpanda"] = { Texture = "sadpanda.tga", Width = 30, Height = 30 }, 
+["mikewazowskeet"] = { Texture = "mikewazowskeet.tga", Width = 30, Height = 30 },
 ["msnwilted"] = { Texture = "msnwilted.tga", Width = 20, Height = 20 }                                                                    
 }
