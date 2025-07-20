@@ -1193,6 +1193,6 @@ Emotedata = {
 ["msnwilted"] = { Texture = "msnwilted.tga", Width = 20, Height = 20 },
 ["moods"] = { Texture = "sax.tga", Width = 30, Height = 30 },
 ["sax"] = { Texture = "sax.tga", Width = 30, Height = 30 }, 
-["oldgravy"] = { Texture = "oldgravy.tga", Width = 40, Height = 30 }, 
+["oldgravy"] = { Texture = "gravy.tga", Width = 40, Height = 30 }, 
 ["gravy"] = { Texture = "gravy.tga", Width = 40, Height = 30 }                                                                     
 }
