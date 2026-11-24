@@ -1196,5 +1196,6 @@ Emotedata = {
 ["oldgravy"] = { Texture = "gravy.tga", Width = 40, Height = 30 }, 
 ["gravy"] = { Texture = "gravy.tga", Width = 40, Height = 30 },
 ["saxdoot"] = { Texture = "saxdoot.tga", Width = 45, Height = 30 }, 
-["dksleep"] = { Texture = "dksleep.tga", Width = 45, Height = 30 }                                                                     
+["dksleep"] = { Texture = "dksleep.tga", Width = 45, Height = 30 },
+["true"] = { Texture = "true.tga", Width = 40, Height = 36 }                                                                           
 }
